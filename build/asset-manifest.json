@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.818ac535.css",
+    "main.js": "/static/js/main.2238bc1f.js",
+    "static/js/787.abcb2b3c.chunk.js": "/static/js/787.abcb2b3c.chunk.js",
+    "static/media/DeliverEat_Logo.png": "/static/media/DeliverEat_Logo.196fe70ea4753784d6ff.png",
+    "static/media/camera.svg": "/static/media/camera.5abb7395ee3aeac6787a96700ab6837d.svg",
+    "index.html": "/index.html",
+    "static/media/bars.svg": "/static/media/bars.cc422b9702b29002bb1a1f973c66332a.svg",
+    "static/media/flecha.svg": "/static/media/flecha.39517d09d898ccfab68d21e5cbe7ac3f.svg",
+    "main.818ac535.css.map": "/static/css/main.818ac535.css.map",
+    "main.2238bc1f.js.map": "/static/js/main.2238bc1f.js.map",
+    "787.abcb2b3c.chunk.js.map": "/static/js/787.abcb2b3c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.818ac535.css",
+    "static/js/main.2238bc1f.js"
+  ]
+}
